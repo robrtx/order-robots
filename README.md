@@ -1,3 +1,3 @@
-# Order some robots from website
+# Order robots from website
 
-My robot for ordering from https://robotsparebinindustries.com/#/robot-order
+My robot for ordering robots from https://robotsparebinindustries.com/#/robot-order
